@@ -1,0 +1,17 @@
+Mata in tider jag kommer jobba
+
+Notera timmar över förväntad tjänstegrad
+
+Notera OB för vardagar efter klock 6 samt alla helgdagar
+
+Räkna ut netto/brutto per månad
+
+Semester (dagar samt ersättning)
+
+Övertid
+
+
+
+Öppna sparad data från fil
+Läsa in information från terminal och spara till fil
+Möjlighet att lägga till röda dagar (som inte är lördag/söndag)
